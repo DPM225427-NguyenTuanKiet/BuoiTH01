@@ -1,0 +1,7 @@
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\bin\Debug\Pattern.exe.config
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\bin\Debug\Pattern.exe
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\bin\Debug\Pattern.pdb
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\obj\Debug\Pattern.exe
+K:\Temp\DPM225427_NguyenTuanKiet_Pattern_03_Prototype\Pattern\obj\Debug\Pattern.pdb
