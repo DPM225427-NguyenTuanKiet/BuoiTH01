@@ -1,0 +1,7 @@
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\bin\Debug\Real.exe.config
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\bin\Debug\Real.exe
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\bin\Debug\Real.pdb
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\obj\Debug\Real.csproj.AssemblyReference.cache
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\obj\Debug\Real.csproj.CoreCompileInputs.cache
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\obj\Debug\Real.exe
+K:\Temp\DPM225427_NguyenTuanKiet_Real_09_Decorator\Real\obj\Debug\Real.pdb
