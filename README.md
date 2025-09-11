@@ -1,3 +1,6 @@
+Full Pattern 
+Full Real
+
 <img width="1484" height="751" alt="Screenshot 2025-09-12 003118" src="https://github.com/user-attachments/assets/d8773f48-cad5-45e8-adfc-96dbfacf1c70" />
 <img width="1482" height="764" alt="Screenshot 2025-09-12 003029" src="https://github.com/user-attachments/assets/b273e74d-9782-49cd-9199-8fb6920d3a26" />
 <img width="1483" height="755" alt="Screenshot 2025-09-12 002938" src="https://github.com/user-attachments/assets/46e834e0-bafa-49ca-8f92-b41007027c35" />
